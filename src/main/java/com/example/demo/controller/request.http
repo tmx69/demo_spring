@@ -1,0 +1,19 @@
+POST localhost:8080/
+Content-Type: application/json
+
+{
+  "name": "test",
+  "age": 20
+}
+
+###
+
+
+POST localhost:8080/id
+Content-Type: application/json
+
+{
+  "id": 1
+}
+
+###
